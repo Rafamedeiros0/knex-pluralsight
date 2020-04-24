@@ -1,0 +1,19 @@
+{
+  "name": "knex-pluralsight",
+  "version": "1.0.0",
+  "description": "knex-demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "knex": "^0.21.0",
+    "pg": "^8.0.3",
+    "prettyjson": "^1.2.1",
+    "sqlite3": "^4.1.1",
+    "treeize": "^2.1.2"
+  }
+}
